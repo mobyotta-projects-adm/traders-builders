@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951544591626-1emjt8flnm6i6cius21mi4lndegskpq2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951544591626-1emjt8flnm6i6cius21mi4lndegskpq2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6bI0iIjS6ncXxuStlCjYtE38VKUb_ma0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951544591626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tradersBuilders</string>
+	<key>PROJECT_ID</key>
+	<string>tradersbuilders-429dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradersbuilders-429dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951544591626:ios:b5ff9375179a7446b876f3</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951544591626",
+    "project_id": "tradersbuilders-429dd",
+    "storage_bucket": "tradersbuilders-429dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951544591626:android:cab2be5691b2788cb876f3",
+        "android_client_info": {
+          "package_name": "com.example.traders_builders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951544591626-e6d8t3ner9tq16h07rmk5u5nav85hurg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VarGI_--i3XdXn4-P6Pykj3DQ7Cw9aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951544591626-e6d8t3ner9tq16h07rmk5u5nav85hurg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
